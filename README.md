@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **Kotlin Multiplateform Mobile (KMM), Jitpack Compose**
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=8205269088529653682](https://play.google.com/store/apps/dev?id=8205269088529653682)
+- 👨‍💻 All of my projects are available at [Play Store Link](https://play.google.com/store/apps/dev?id=8205269088529653682)
 
-- 📝 I regularly write articles on [facebook.com/shahnizarbaloch/](facebook.com/shahnizarbaloch/)
+- 📝 I regularly post status updates on [Facebook Profile](facebook.com/shahnizarbaloch/)
 
 - 💬 Ask me about **android, java, kotlin**
 
 - 📫 How to reach me **shahnizarbaloch@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UJQUB_OFPt1w82Z0UK3Ox9ECHEP0FTEb/view?usp=sharing](https://drive.google.com/file/d/1UJQUB_OFPt1w82Z0UK3Ox9ECHEP0FTEb/view?usp=sharing)
+- 📄 Know more about my experiences [CV](https://drive.google.com/file/d/1htjPiiFxQ3-ubJBCy5-c-NWDujmdi2Yd/view?usp=sharing)
 
 - ⚡ Fun fact **I code when I get bored.**
 
