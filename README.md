@@ -15,9 +15,11 @@
 
 - 📝 I regularly write articles on [facebook.com/shahnizarbaloch/](facebook.com/shahnizarbaloch/)
 
-- 💬 Ask me about **java, kotlin**
+- 💬 Ask me about **android, java, kotlin**
 
 - 📫 How to reach me **shahnizarbaloch@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UJQUB_OFPt1w82Z0UK3Ox9ECHEP0FTEb/view?usp=sharing](https://drive.google.com/file/d/1UJQUB_OFPt1w82Z0UK3Ox9ECHEP0FTEb/view?usp=sharing)
 
 - ⚡ Fun fact **I code when I get bored.**
 
