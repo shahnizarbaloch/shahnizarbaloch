@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shahnizarbaloch" target="blank"><img src="https://img.shields.io/twitter/follow/shahnizarbaloch?logo=twitter&style=for-the-badge" alt="shahnizarbaloch" /></a> </p>
 
-- 🔭 I’m currently working on [Slickcall](http://slickcall.com/)
+- 🔭 I’m currently working on [Multiple Projects](https://play.google.com/store/apps/dev?id=8205269088529653682)
 
 - 🌱 I’m currently learning **Kotlin Multiplateform Mobile (KMM), Jitpack Compose**
-
-- 👯 I’m looking to collaborate on [Multiple Projects](http://vulcan-solutions.org/)
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=8205269088529653682](https://play.google.com/store/apps/dev?id=8205269088529653682)
 
@@ -21,7 +19,7 @@
 
 - 📫 How to reach me **shahnizarbaloch@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UJQUB_OFPt1w82Z0UK3Ox9ECHEP0FTEb/view?usp=sharing](https://drive.google.com/file/d/1UJQUB_OFPt1w82Z0UK3Ox9ECHEP0FTEb/view?usp=sharing)
+- ⚡ Fun fact **I code when I get bored.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,4 +40,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnizarbaloch&show_icons=true&locale=en" alt="shahnizarbaloch" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnizarbaloch&" alt="shahnizarbaloch" /></p>
