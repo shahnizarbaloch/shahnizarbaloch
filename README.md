@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shah Nizar Baloch</h1>
-<h3 align="center">A Passionate Android Developer From Pakistan</h3>
+<h5 align="center">Analytical and detail oriented Android app developer professional with stellar communication skills. Adept at bringing all team members together to reach a common goal to achieve desired requirements. Conceptualizing app solutions with the latest technology, design theory, and a large dose of creativity. Committed to viable and easily functional app solutions for everyone.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahnizarbaloch&label=Profile%20views&color=0e75b6&style=flat" alt="shahnizarbaloch" /> </p>
 
