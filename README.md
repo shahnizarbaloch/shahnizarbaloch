@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shahnizarbaloch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahnizarbaloch" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shah-nizar-baloch-76328ab1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah-nizar-baloch-76328ab1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahnizarbaloch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah-nizar-baloch-76328ab1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9145668" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9145668" height="30" width="40" /></a>
 <a href="https://fb.com/shahnizarbaloch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahnizarbaloch" height="30" width="40" /></a>
 <a href="https://instagram.com/shahnizarbaloch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahnizarbaloch" height="30" width="40" /></a>
