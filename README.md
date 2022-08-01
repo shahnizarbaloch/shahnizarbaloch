@@ -21,7 +21,7 @@ Jetpack Libraries | MVVM | VOIP (SIP) | Dependency Injection | Kotlin Coroutines
 
 - 📫 How to reach me **shahnizarbaloch@gmail.com**
 
-- 📄 Know more about my experiences [CV](https://drive.google.com/file/d/1htjPiiFxQ3-ubJBCy5-c-NWDujmdi2Yd/view?usp=sharing)
+- 📄 Know more about my experiences [CV](https://drive.google.com/file/d/17UBLv5X1q960IeVF_OpRLPLh_qGiddtr/view?usp=sharing)
 
 - ⚡ Fun fact **I code when I get bored.**
 
