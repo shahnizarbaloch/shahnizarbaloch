@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shah Nizar Baloch</h1>
-<h4 align="center">Analytical and detail oriented android professional app developer with the latest skills.
-Some of the following skills are listed below:
+<h4 align="center">Analytical and detail oriented android professional app developer with the latest skills.<br>
+Some of the following skills are listed below:<br>
 Jetpack Libraries | MVVM | VOIP (SIP) | Dependency Injection | Kotlin Coroutines | RxJava | Push Notifications.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahnizarbaloch&label=Profile%20views&color=0e75b6&style=flat" alt="shahnizarbaloch" /> </p>
