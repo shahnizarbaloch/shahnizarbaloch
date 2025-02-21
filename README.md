@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shah Nizar Baloch</h1>
-<h4 align="center">Analytical and detail oriented android professional app developer with the latest skills.<br>
-Some of the following skills are listed below:<br>
-Jetpack Libraries | MVVM | VOIP (SIP) | Dependency Injection | Kotlin Coroutines | RxJava | Push Notifications.</h4>
+<h4 align="center">I am a results-driven Software Engineer with 6+ years of experience, specializing in Android development for over 5 years. Skilled in Kotlin, Java, and cutting-edge technologies like BLE, VoIP, Jetpack Compose, and Kotlin Multiplatform, I create high- performing mobile solutions that drive user engagement and business success.
+I’ve collaborated with international teams (UK/US-based) to develop apps in healthcare, real-time communication, and IoT. Passionate about clean architecture and continuous learning, I stay ahead of the curve in mobile innovation. Let’s connect to transform ideas into impactful digital solutions!<br></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahnizarbaloch&label=Profile%20views&color=0e75b6&style=flat" alt="shahnizarbaloch" /> </p>
 
@@ -17,11 +16,11 @@ Jetpack Libraries | MVVM | VOIP (SIP) | Dependency Injection | Kotlin Coroutines
 
 - 📝 I regularly post status updates on [Facebook Profile](facebook.com/shahnizarbaloch/)
 
-- 💬 Ask me about **android, java, kotlin**
+- 💬 Ask me about **Android Development**
 
 - 📫 How to reach me **shahnizarbaloch@gmail.com**
 
-- 📄 Know more about my experiences [CV](https://drive.google.com/file/d/17UBLv5X1q960IeVF_OpRLPLh_qGiddtr/view?usp=sharing)
+- 📄 Know more about my experiences [CV](https://drive.google.com/file/d/13aLng4AhZxKuuj5TchR555cEMbz9pDCA/view)
 
 - ⚡ Fun fact **I code when I get bored.**
 
