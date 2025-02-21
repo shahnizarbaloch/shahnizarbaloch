@@ -20,7 +20,7 @@ I’ve collaborated with international teams (UK/US-based) to develop apps in he
 
 - 📫 How to reach me **shahnizarbaloch@gmail.com**
 
-- 📄 Know more about my experiences [CV](https://drive.google.com/file/d/13aLng4AhZxKuuj5TchR555cEMbz9pDCA/view)
+- 📄 Know more about my experiences [CV](https://drive.google.com/file/d/13aLng4AhZxKuuj5TchR555cEMbz9pDCA/view?usp=drive_link)
 
 - ⚡ Fun fact **I code when I get bored.**
 
